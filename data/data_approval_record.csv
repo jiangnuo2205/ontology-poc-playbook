@@ -1,0 +1,3 @@
+approval_id,task_id,requester,approver,trigger_reason,approval_status,execution_status,created_at
+APR-9001,TASK-1001,op_us_01,lead_us_01,需要调整TikTok广告预算,pending,not_started,2026-06-20T10:00:00Z
+APR-9002,TASK-1002,sc_us_01,manager_sc_01,建议紧急补货,approved,in_progress,2026-06-20T10:05:00Z

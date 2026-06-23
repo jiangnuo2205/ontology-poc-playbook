@@ -1,0 +1,5 @@
+sku_code,category,season,color,size,cost,supplier_id,image_path,status,updated_at
+TSHIRT-001,Tops,SS24,Black,M,8.50,SUP-01,s3://img/tshirt-001-main.jpg,active,2026-06-20T10:00:00Z
+TSHIRT-001,Tops,SS24,Black,L,8.50,SUP-01,s3://img/tshirt-001-main.jpg,active,2026-06-20T10:00:00Z
+DRESS-002,Dress,SS24,Red,S,14.20,SUP-02,s3://img/dress-002-main.jpg,active,2026-06-20T10:00:00Z
+SHOES-003,Shoes,FW24,White,38,18.00,SUP-03,s3://img/shoes-003-main.jpg,active,2026-06-20T10:00:00Z

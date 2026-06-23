@@ -1,0 +1,5 @@
+content_asset_id,sku_code,platform,shop_id,asset_type,title_version,selling_points_version,review_status,updated_at
+CA-TS001-AMZ-IMG,TSHIRT-001,Amazon,SHOP-US-01,image,title_v2,sp_v3,approved,2026-06-19T08:00:00Z
+CA-TS001-AMZ-VID,TSHIRT-001,Amazon,SHOP-US-01,video,title_v2,sp_v3,pending,2026-06-19T08:00:00Z
+CA-DR002-AMZ-IMG,DRESS-002,Amazon,SHOP-US-01,image,title_v1,sp_v1,approved,2026-06-19T08:00:00Z
+CA-SH003-AMZ-TXT,SHOES-003,Amazon,SHOP-EU-01,copy,title_v1,sp_v2,approved,2026-06-19T08:00:00Z
